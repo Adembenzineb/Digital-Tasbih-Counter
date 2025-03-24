@@ -14,7 +14,7 @@ A clean, minimalist counter for tracking tasbih, dhikr, or any counting task. Fe
 3. Get a congratulatory alert when goal is reached  
 
 ## Live Demo  
-🔗 [View Project](https://adembenzineb.github.io/digital-tasbih-counter/)  
+🔗 [View Project](https://digital-tasbih-counter-eta.vercel.app)  
 
 ## Installation  
 ```bash
